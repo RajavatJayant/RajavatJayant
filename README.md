@@ -6,7 +6,7 @@
 
 <h3 align="center">Profiles:</h3>
 <p align="left">
-<a href="linkedin.com/in/jayant-rajavat-28n02j" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Jayant rajavat" height="35" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jayant-rajavat-28n02j?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fqt8dncxTFKcW7dex8paiA%3D%3D" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Jayant rajavat" height="35" width="40" /></a>&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/jayantrajavat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayantrajavat/learning" height="35" width="40" /></a>&nbsp;
 <a href="https://www.geeksforgeeks.org/user/jayantr6acc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jayantrajavat/practice" height="40" width="40" /></a>&nbsp;
