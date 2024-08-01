@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JAVA Development
 - 💞️ I’m looking to collaborate with other
 - 📫 How to reach me jayantrajavar@gmail.com
-
+<br>
+<img align="right" alt="coding" height ="420" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <h3 align="center">Profiles:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jayant-rajavat-28n02j?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fqt8dncxTFKcW7dex8paiA%3D%3D" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="Jayant rajavat" height="35" width="40" /></a>&nbsp;&nbsp;
