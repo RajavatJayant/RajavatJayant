@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajavatJayant
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning JAVA Development
+- 👀 I’m interested in DSA with C++
+- 🌱 I’m currently learning WEB Development
 - 💞️ I’m looking to collaborate with other
 - 📫 How to reach me jayantrajavar@gmail.com
 <br>
